@@ -1,0 +1,18 @@
+feature aggregation process
+Mirnet psnr=  27.577719272617607
+Auto contrast =  28.187238470027722
+
+Mirnet psnr=  30.189616447526987
+Auto contrast =  27.208390024583924
+
+Mirnet psnr=  27.736110054143033
+Auto contrast =  28.48175015172596
+
+Mirnet psnr=  27.374417450320973
+Auto contrast =  34.773559139315104
+
+Mirnet psnr=  27.608895992733544
+Auto contrast =  28.720846760891448
+
+Mirnet psnr=  28.03728175821854
+Auto contrast =  28.156085435274242
