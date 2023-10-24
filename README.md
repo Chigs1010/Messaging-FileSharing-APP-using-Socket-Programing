@@ -3,7 +3,7 @@
 "A new Flutter project."
 # Message and File Sharing App
 # Overview
-"This is a Message and File Sharing App developed using socket programming. It allows users to communicate with each other through text messages and share files securely. The app is hosted on the cloud, ensuring accessibility and scalability."
+This is a Message and File Sharing App developed using socket programming. It allows users to communicate with each other through text messages and share files securely. The app is hosted on the cloud, ensuring accessibility and scalability.
 
 # Features
 Real-time messaging: Send and receive messages instantly.
