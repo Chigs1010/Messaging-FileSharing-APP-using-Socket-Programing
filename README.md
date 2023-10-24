@@ -1,6 +1,16 @@
 # myapp
 
 "A new Flutter project."
+#Message and File Sharing App
+#Overview
+"This is a Message and File Sharing App developed using socket programming. It allows users to communicate with each other through text messages and share files securely. The app is hosted on the cloud, ensuring accessibility and scalability."
+
+#Features
+Real-time messaging: Send and receive messages instantly.
+File sharing: Share files of various formats with ease.
+Secure and private: All communications are encrypted.
+Cloud-hosted: The app is hosted on a cloud server for 24/7 availability.
+User-friendly interface: Easy-to-use and intuitive design.
 
 ## Getting Started
 
